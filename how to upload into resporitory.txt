@@ -1,0 +1,12 @@
+touch.gitignore// to add file 
+git config --global user.name anish
+git congig –global user.email npcamdnjnjd@gmail.com
+git init
+git add .
+git commit -m “Initial Commit”
+git status
+git remote add origin https
+if authrntication is required then
+create new shhs key 
+git push origin master
+
