@@ -1,0 +1,39 @@
+*{margin: 0%;
+    padding: 0%;
+
+}
+.flex-container {
+    width: 100;
+    background-color: blue;
+    border: 16px dashed rgb(21, 10, 10);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-content: center;
+    height: auto;
+    flex-direction: row;
+    font-family: Permanent Marker;
+    align-items: space-between;
+
+}
+.flex-item {
+    border: 1px dotted black;
+    width: 200px;
+    height: auto;
+    align-items: center;
+    
+    
+    
+}
+.flex-item p{
+       height:auto;
+       text-align: justify;
+       text-indent: 20px;
+       line-height: 2;
+       
+}
+.para{
+    background-color: blue;
+    text-decoration: underline;
+    text-shadow: 3px 3px 2px;
+}
