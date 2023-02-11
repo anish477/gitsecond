@@ -4,7 +4,7 @@ table {
     width: 100%;
     transform:translate(0px, 60px);
     overflow: hidden;
-    transform: translateY(100px);
+    transform: translateY(40px);
     
   }
 
@@ -24,4 +24,9 @@ table {
     margin: 0%;
     background-color: #5CDB95;
     font-family: Bangers;
+}
+p{
+  padding-left: 300px;
+  padding-top: 50px;
+  font-size: 2rem;
 }
