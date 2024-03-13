@@ -1,6 +1,6 @@
 touch.gitignore// to add file 
 git config --global user.name anish
-git congig –global user.email npcamdnjnjd@gmail.com
+git config –global user.email npcamdnjnjd@gmail.com
 git init
 git add .
 git commit -m “Initial Commit”
