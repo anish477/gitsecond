@@ -1,5 +1,5 @@
 touch.gitignore// to add file 
-git config --global user.name anish
+git config --global user.name anish477
 git config --global user.email "anishsharma6798@gmail.com"
 git init
 git add .
